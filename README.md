@@ -19,15 +19,3 @@ conda create -n CRAG python=3.11
 ...
 pip install -r requirements.txt
 ```
-
-## Cite
-If you think our work is helpful or use the code, please cite the following paper:
-
-```
-@article{yan2024corrective,
-  title={Corrective Retrieval Augmented Generation},
-  author={Yan, Shi-Qi and Gu, Jia-Chen and Zhu, Yun and Ling, Zhen-Hua},
-  journal={arXiv preprint arXiv:2401.15884},
-  year={2024}
-}
-```
