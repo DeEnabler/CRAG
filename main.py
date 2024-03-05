@@ -6,7 +6,7 @@ import os
 chroma_client = chromadb.Client()
 
 # Define the text file path
-text_file_path = '/content/example.txt'  # Replace with your text file path
+text_file_path = '/CRAG/example.txt'  # Replace with your text file path
 
 # Read all lines from the text file
 with open(text_file_path, 'r') as file:
